@@ -9,7 +9,7 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int i=3;
+		int i=5;
 		if(i<0)
 		{
 			
