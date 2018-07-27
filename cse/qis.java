@@ -23,7 +23,7 @@ class Ideone
 		
 		else
 		{
-			System.out.println("zero");
+			System.out.println("Zero");
 
 		}
 	}
