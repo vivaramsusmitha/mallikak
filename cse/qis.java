@@ -9,7 +9,10 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		int i=3;
+		int i;
+		  Scanner scan = new Scanner(System.in);
+                  System.out.print("Enter the number you want to check:");
+                  i = scan.nextInt();
 		if(i<0)
 		{
 			
