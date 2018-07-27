@@ -13,11 +13,11 @@ class Ideone
 		if(i<0)
 		{
 			
-			System.out.println("negative");
+			System.out.println("Negative");
 		}
 		else if(i>0)
 		{
-						System.out.println("positive");
+						System.out.println("Positive");
 
 		}
 		
